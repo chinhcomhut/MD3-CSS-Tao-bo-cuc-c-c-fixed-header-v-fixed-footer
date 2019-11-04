@@ -1,0 +1,15 @@
+.navbar {
+    background: #d14836;
+    position: fixed;
+    top:0;
+    width: 100%;
+}
+.main {
+    padding: 10px;
+    background-color: aquamarine;
+    font: 80% Verdana;
+}
+
+.main h1, .main h2 {
+    color: #d14836;
+}
